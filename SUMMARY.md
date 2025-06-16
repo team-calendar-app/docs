@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [О продукте](README.md)
 
 ## Getting Started
 
