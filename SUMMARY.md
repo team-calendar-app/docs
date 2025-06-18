@@ -3,16 +3,8 @@
 * [О продукте](README.md)
 * [Кому подойдет](komu-podoidet.md)
 
-## Getting Started
+## Возможности
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
-
-## Basics
-
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Функциональность](vozmozhnosti/quickstart.md)
+* [Уведомления и бот](vozmozhnosti/publish-your-docs.md)
+* [Тарифные планы](vozmozhnosti/tarifnye-plany.md)
