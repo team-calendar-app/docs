@@ -1,6 +1,7 @@
 # Table of contents
 
 * [О продукте](README.md)
+* [Кому подойдет](komu-podoidet.md)
 
 ## Getting Started
 
