@@ -1,5 +1,5 @@
 ---
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
+cover: .gitbook/assets/docs_ welcome.jpg
 coverY: 0
 layout:
   cover:
