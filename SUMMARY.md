@@ -7,5 +7,6 @@
 
 * [Функциональность](vozmozhnosti/quickstart/README.md)
   * [Главная](vozmozhnosti/quickstart/main.md)
+  * [Календарь](vozmozhnosti/quickstart/kalendar.md)
 * [Уведомления и бот](vozmozhnosti/publish-your-docs.md)
 * [Тарифные планы](vozmozhnosti/tarifnye-plany.md)
