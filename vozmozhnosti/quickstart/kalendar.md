@@ -7,5 +7,5 @@ icon: calendar
 
 # Календарь
 
-<figure><img src="../../.gitbook/assets/overview.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/overview.png" alt="" width="375"><figcaption><p>Календарь</p></figcaption></figure>
 
