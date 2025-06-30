@@ -1,12 +1,16 @@
 # Table of contents
 
 * [О продукте](README.md)
-* [Кому подойдет](komu-podoidet.md)
+* [Кому подойдет](for.md)
 
-## Возможности
+## Возможности <a href="#menu" id="menu"></a>
 
-* [Функциональность](vozmozhnosti/quickstart/README.md)
-  * [Главная](vozmozhnosti/quickstart/main.md)
-  * [Календарь](vozmozhnosti/quickstart/kalendar.md)
-* [Уведомления и бот](vozmozhnosti/publish-your-docs.md)
-* [Тарифные планы](vozmozhnosti/tarifnye-plany.md)
+* [Функциональность](menu/features/README.md)
+  * [Главная](menu/features/main.md)
+  * [Календарь](menu/features/calendar.md)
+  * [Управление](menu/features/management/README.md)
+    * [Добавить слоты](menu/features/management/add-slots.md)
+    * [Управление слотами](menu/features/management/manage-slots.md)
+  * [Еще](menu/features/more.md)
+* [Уведомления и бот](menu/publish-your-docs.md)
+* [Тарифные планы](menu/tarifnye-plany.md)
