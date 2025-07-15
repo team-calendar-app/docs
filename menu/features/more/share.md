@@ -7,7 +7,7 @@ icon: share
 
 # Поделиться
 
-<figure><img src="../../../.gitbook/assets/more - share.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/more - share (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Страница «Поделиться» позволяет удобно распространять ссылку на ваш календарь. Это упрощает запись клиентов, учеников или участников на доступные слоты — достаточно отправить ссылку или показать QR-код.
 
