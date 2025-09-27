@@ -44,7 +44,7 @@ icon: plus
 
 ### Интерфейс выбора времени
 
-<div><figure><img src="../../../.gitbook/assets/management - add slots - select time.png" alt="" width="375"><figcaption><p>Выбор времени</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/management - add slots - select time - calendar.png" alt="" width="375"><figcaption><p>Выбор даты</p></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/management - add event - select time.png" alt="" width="375"><figcaption><p>Выбор времени</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/management - add event - select time - calendar.png" alt="" width="375"><figcaption><p>Выбор даты</p></figcaption></figure></div>
 
 Функциональность модального окна:
 
